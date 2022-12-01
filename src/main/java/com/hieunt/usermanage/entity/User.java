@@ -5,7 +5,7 @@ import lombok.*;
 import javax.persistence.*;
 import java.util.Date;
 
-@Entity(name = "users")
+@Entity(name = "user")
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
